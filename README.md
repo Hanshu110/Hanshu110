@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HANISH B</h1>
+<h1 align="center">Hi, I'm HANISH B</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me: HANISH B(LinkedIn), @hanish(Facebook), hanishb81(Leetcode)</h3>
