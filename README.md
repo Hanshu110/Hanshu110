@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HANISH B</h1>
-<h3 align="center">A passionate frontend developer And Game Developer</h3>
+<h3 align="center">A frontend developer And Game Developer</h3>
 
 - 🔭 I’m currently working on Spider-Man Action Game **Go-Spidey**
 
