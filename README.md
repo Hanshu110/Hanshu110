@@ -24,7 +24,7 @@
 <a href="https://fb.com/hanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanish" height="30" width="40" /></a>
 <a href="https://instagram.com/hanish1103k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanish1103k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hanishb81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hanishb81" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hanish b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hanish b" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hanisrly8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hanish b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
