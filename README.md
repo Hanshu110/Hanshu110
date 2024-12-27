@@ -19,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hanishb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanish b" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hanish b](https://www.linkedin.com/in/hanish-b-ba4928285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanish b" height="30" width="40" /></a>
 <a href="https://kaggle.com/hanish110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hanish110" height="30" width="40" /></a>
 <a href="https://fb.com/hanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanish" height="30" width="40" /></a>
 <a href="https://instagram.com/hanish1103k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanish1103k" height="30" width="40" /></a>
